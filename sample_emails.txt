@@ -1,0 +1,12 @@
+SAMPLE 1 — HIGH-RISK TRAINING EXAMPLE
+Subject: URGENT: Account will be suspended
+Sender: security@example.test
+Body: Verify your account immediately. Enter your password and OTP.
+Do not contact the office. Visit http://example.test/login
+
+SAMPLE 2 — LOW-SIGNAL TRAINING EXAMPLE
+Subject: Class timetable
+Sender: teacher@example.test
+Body: The updated timetable is available on the student portal.
+
+These are fictional examples for local testing. Do not send real passwords or OTPs.

@@ -1,0 +1,25 @@
+==========================================================
+             PHISHING EMAIL DETECTOR
+        Offline educational security checker
+==========================================================
+Email subject: Sender email address: Paste the email body. Press Enter on an empty line to finish:
+
+----------------------------------------------------------
+Risk level : HIGH
+Risk score : 9
+Findings:
+  - Urgent or time-pressure language: urgent, immediately, account will be suspended
+  - Request or mention of passwords, OTPs, or sign-in details: password, otp, verify your account
+  - Discourages independent verification: do not contact
+  - Contains 1 web link(s); inspect them carefully without opening suspicious links.
+  - Unencrypted HTTP link detected: example.test
+
+Safety advice:
+  - Do not share passwords, OTPs, or identity documents.
+  - Verify requests through an official website or known contact.
+  - Do not open suspicious links or attachments.
+  - Report suspicious messages to your organisation's IT team.
+
+Note: This is a simple rule-based checker, not a guarantee.
+A LOW result does not mean an email is safe.
+----------------------------------------------------------
